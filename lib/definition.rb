@@ -56,6 +56,3 @@ class Definition
   end
 end
 
-
-kmkmkljkhjhjk
-akefaksdjfk
